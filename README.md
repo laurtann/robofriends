@@ -1,6 +1,6 @@
 # Welcome to RoboFriends!
 
-### RoboFriends is live [Here](https://www.lauratannahill.com/robofriends/)
+### RoboFriends is live [Here](https://www.lauratannahill.com/robofriends/)!
 
 Search through our robot directory!
 
